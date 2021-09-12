@@ -1,0 +1,154 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:700,500);
+
+main {
+  background-color: #292643;
+  margin: 100px;
+  font-family: 'roboto-medium', Arial, sans-serif;
+  font-size: 1em;
+}
+
+h2 {
+  font-family: 'Fox on the Run';
+  color: #d0cfcd;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 35px;
+}
+
+h3 {
+  font-family: 'roboto-bold', Arial, sans-serif;
+  color: #d0cfcd;
+  text-align: center;
+  padding-top: 12px;
+}
+
+.container-1{
+  display:flex;
+}
+
+.container-2{
+  display:flex;
+}
+
+.box-1{
+flex:1;
+background-color: #776483;
+}
+
+.box-2{
+flex:1;
+padding-top: 60px;
+}
+
+.box-3{
+flex:1;
+padding-top: 60px;
+padding-left: 100px;
+}
+
+.box-4{
+flex:1;
+background-color: #776483;
+}
+
+.box-5{
+flex:1;
+padding-top: 40px;
+}
+
+.box-6{
+flex:1;
+padding-top: 40px;
+padding-left: 100px;
+}
+
+.box-4, .box-5, .box-6 {
+padding-bottom: 120px;
+}
+
+.fab {
+  font-size: 40px;
+  color: #e99e75;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.fab:hover {
+  color: #d0cfcd;
+}
+
+.fa-linkedin-in {
+  padding-top: 20px;
+  padding-left: 130px;
+}
+
+.fa-codepen, .fa-github {
+  padding-top: 20px;
+  padding-left: 12px;
+}
+
+.naam {
+  width: 400px;
+}
+
+#line {
+border-bottom: 4px solid #292643;
+}
+
+.purple, .purple-2 {
+background-color: #776483;
+height: 123px;
+width: 300px;
+}
+
+.purple-3, .purple-4 {
+  background-color: #776483;
+  height: 133px;
+  width: 300px;
+  }
+  
+.white, .white-2, .white-3, .white-4 {
+background-color: #d0cfcd;
+width: 300px;
+height:100px;
+}
+
+.purple, .white, .purple-3, .white-3 {
+float:right;
+}
+
+.white-3, .white-4 {
+background-color: #d0cfcd;
+width: 300px;
+height: 200px;
+}
+
+#padding {
+padding: 10px 30px 30px 30px;
+}
+
+.icon {
+  padding-top: 15px;
+  padding-left: 110px;
+}
+
+.icon-2 {
+  padding-top: 29px;
+  padding-left: 70px;
+}
+
+.icon-3 {
+  padding-top: 25px;
+  padding-left: 70px;
+}
+
+.icon-4 {
+  padding-top: 25px;
+  padding-left: 110px;
+}
+
+.hond {
+  margin-top: 123px;
+  width: 300px;
+  position: absolute;
+}
