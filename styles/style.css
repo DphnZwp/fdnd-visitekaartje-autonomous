@@ -2,7 +2,7 @@
 
 main {
   background-color: #292643;
-  margin: 100px;
+  margin: 50px;
   font-family: 'roboto-medium', Arial, sans-serif;
   font-size: 1em;
 }
@@ -12,7 +12,6 @@ h2 {
   color: #d0cfcd;
   margin: 0 auto;
   text-align: center;
-  font-size: 35px;
 }
 
 h3 {
@@ -36,14 +35,14 @@ background-color: #776483;
 }
 
 .box-2{
-flex:1;
+flex:1.2;
 padding-top: 60px;
 }
 
 .box-3{
 flex:1;
 padding-top: 60px;
-padding-left: 100px;
+padding-left: 80px;
 }
 
 .box-4{
@@ -52,18 +51,18 @@ background-color: #776483;
 }
 
 .box-5{
-flex:1;
+flex:1.2;
 padding-top: 40px;
 }
 
 .box-6{
 flex:1;
 padding-top: 40px;
-padding-left: 100px;
+padding-left: 80px;
 }
 
 .box-4, .box-5, .box-6 {
-padding-bottom: 120px;
+padding-bottom: 140px;
 }
 
 .fab {
@@ -78,12 +77,12 @@ padding-bottom: 120px;
 }
 
 .fa-linkedin-in {
-  padding-top: 20px;
+  padding-top: 30px;
   padding-left: 130px;
 }
 
 .fa-codepen, .fa-github {
-  padding-top: 20px;
+  padding-top: 30px;
   padding-left: 12px;
 }
 
@@ -103,7 +102,7 @@ width: 300px;
 
 .purple-3, .purple-4 {
   background-color: #776483;
-  height: 133px;
+  height: 119px;
   width: 300px;
   }
   
@@ -147,8 +146,157 @@ padding: 10px 30px 30px 30px;
   padding-left: 110px;
 }
 
+.spreekwolkje {
+  background-color: #d0cfcd;
+  width: 270px;
+  height: 140px;
+  padding: 20px 30px 30px 30px;
+  margin-top: 40px;
+  margin-left: 280px;
+  position: absolute;
+}
+
+.driehoek {
+  position: absolute;
+  margin-left: 325px;
+  margin-top: 180px;
+}
+
 .hond {
-  margin-top: 123px;
+  margin-top: 130px;
   width: 300px;
   position: absolute;
+}
+
+.button {
+  background-color: #44426f;
+  color: #d0cfcd;
+  font-family: 'Roboto', Arial, sans-serif;
+  letter-spacing: 1px;
+  border: none;
+  text-align: center;
+  margin-top: 405px;
+  margin-left: 780px;
+  padding: 15px;
+  width: 350px;
+  font-size: 1em;
+  position: absolute;
+  cursor: pointer;
+}
+
+.button span {
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  transition: 0.5s;
+  color: white;
+}
+
+.button span:after {
+  content: '\276F';
+  color: #d0cfcd;
+  position: absolute;
+  top: 0;
+  right: -15px;
+  transition: 0.5s;
+  opacity: 0;
+}
+
+.button:hover span {
+  padding-right: 20px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right:0;
+}
+
+/* Achterkant Visitekaartje */
+
+/* Main van de achterkant */
+.achterkant {
+  background-color: #292643;
+  margin: 50px;
+  font-family: 'roboto-medium', Arial, sans-serif;
+  font-size: 1em;
+  height: 700px;
+}
+
+.container-3{
+  display:flex;
+  flex-direction:row;
+}
+
+img.envelop {
+  width: 35px;
+  position: absolute;
+  margin-left: 320px;
+  margin-top: 45px;
+}
+
+.email {
+  margin-left: 370px;
+}
+
+img.telefoontje {
+  width: 35px;
+}
+
+.telefoon {
+  margin-left: 50px;
+}
+
+.email, .telefoon {
+  font-family: 'roboto-bold', Arial, sans-serif;
+  color: #d0cfcd;
+  text-align: center;
+  padding-top: 40px;
+}
+
+.logo {
+  width: 1000px;
+  padding-left: 350px;
+  padding-top: 100px;
+}
+
+.button-2 {
+  background-color: #44426f;
+  color: #d0cfcd;
+  font-family: 'Roboto', Arial, sans-serif;
+  letter-spacing: 1px;
+  border: none;
+  text-align: center;
+  margin-top: 70px;
+  margin-left: 500px;
+  padding: 15px;
+  width: 350px;
+  font-size: 1em;
+  position: absolute;
+  cursor: pointer;
+}
+
+.button-2 span {
+  color: #d0cfcd;
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button-2 span:after {
+  content: '\276E';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  left: -15px;
+  transition: 0.5s;
+}
+
+.button-2:hover span {
+  padding-left: 20px;
+}
+
+.button-2:hover span:after {
+  opacity: 1;
+  left: 0;
 }
