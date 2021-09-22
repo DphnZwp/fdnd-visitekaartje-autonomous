@@ -24,7 +24,8 @@ Achterkant:
 foto moet nog gemaakt worden
 
 ### Hier is het verbeterde ontwerp in Adobe Illustrator uitgewerkt
-![Ontwerp Illustrator](https://user-images.githubusercontent.com/69635977/134397318-a723fd22-5c68-4ed7-a34c-c4ff7edba111.png)
+![voorkant](https://user-images.githubusercontent.com/69635977/134399427-c6032f01-03f8-4a8d-8b48-661b432e30d9.jpg)
+
 ![achterkant2](https://user-images.githubusercontent.com/69635977/134398049-ece39a88-5ca6-475f-ac9f-a8c43b82f755.jpg)
 
 ## Inhoudsopgave
