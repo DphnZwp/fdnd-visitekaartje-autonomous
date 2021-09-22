@@ -14,10 +14,10 @@ Dit is de schets die ik gekozen had.
 foto moet nog gemaakt worden
 
 ### Hier is het ontwerp in Adobe Illustrator uitgewerkt
-Voorkant:
+#### Voorkant:
 ![visitekaartje NIEUW](https://user-images.githubusercontent.com/69635977/134399303-54dff6cc-d797-4271-b392-896765a9f126.jpg)
 
-Achterkant:
+#### Achterkant:
 ![achterkant](https://user-images.githubusercontent.com/69635977/134398026-f4fa08ca-f0fb-473f-9fbc-18aa8be3d4d6.jpg)
 
 ### Toen de les over hierarchie design ging had ik een betere schets gemaakt voor een betere hierarchie in mijn ontwerp
