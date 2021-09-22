@@ -15,7 +15,7 @@ foto moet nog gemaakt worden
 
 ### Hier is het ontwerp in Adobe Illustrator uitgewerkt
 Voorkant:
-![scrnli_13-9-2021 11-23-06](https://user-images.githubusercontent.com/69635977/134398949-bb4c7ffc-7c44-442e-8822-5b721fa5510f.png)
+![visitekaartje NIEUW](https://user-images.githubusercontent.com/69635977/134399303-54dff6cc-d797-4271-b392-896765a9f126.jpg)
 
 Achterkant:
 ![achterkant](https://user-images.githubusercontent.com/69635977/134398026-f4fa08ca-f0fb-473f-9fbc-18aa8be3d4d6.jpg)
