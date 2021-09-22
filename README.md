@@ -5,6 +5,26 @@
 ## Beschrijving
 <!-- Voeg een link toe naar Github Pages 🌐-->
 <!-- Voeg een mooie poster visual toe 📸 -->
+Het doel van het project is om jezelf voor te stellen binnen de tribe door middel van een visitekaartje. Eerst moet je bepalen wat ga je over jezelf vertellen in het visitekaartje. Daarna schets je een paar ideeën en kies je het beste ontwerp voor het visitekaartje uit. Dat definitieve ontwerp maak je in de code en wordt je uiteindelijke visitekaartje.
+
+Hier zijn de eerste schetsen die ik voor mijn visitekaartje heb gemaakt. 
+foto moet nog gemaakt worden
+
+Dit is de schets die ik gekozen had. 
+foto moet nog gemaakt worden
+
+### Hier is het ontwerp in Adobe Illustrator uitgewerkt
+Voorkant:
+![IMG_1057](https://user-images.githubusercontent.com/69635977/134397634-a93dc021-c473-4449-af52-6c4e4b4b4d13.JPG)
+Achterkant:
+![achterkant](https://user-images.githubusercontent.com/69635977/134398026-f4fa08ca-f0fb-473f-9fbc-18aa8be3d4d6.jpg)
+
+### Toen de les over hierarchie design ging had ik een betere schets gemaakt voor een betere hierarchie in mijn ontwerp
+foto moet nog gemaakt worden
+
+### Hier is het verbeterde ontwerp in Adobe Illustrator uitgewerkt
+![Ontwerp Illustrator](https://user-images.githubusercontent.com/69635977/134397318-a723fd22-5c68-4ed7-a34c-c4ff7edba111.png)
+![achterkant2](https://user-images.githubusercontent.com/69635977/134398049-ece39a88-5ca6-475f-ac9f-a8c43b82f755.jpg)
 
 ## Inhoudsopgave
 
