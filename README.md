@@ -1,10 +1,11 @@
 > Fork deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
+# Visitekaartje Daphne Zwuup
 
 ## Beschrijving
 https://daphne.student.fdnd.nl/
-<!-- Voeg een mooie poster visual toe 📸 -->
+![website](https://user-images.githubusercontent.com/69635977/134402027-c10541bb-71df-4303-bdc1-eb99d6513dc7.png)
+
 Het doel van het project is om jezelf voor te stellen binnen de tribe door middel van een visitekaartje. Eerst moet je bepalen wat ga je over jezelf vertellen in het visitekaartje. Daarna schets je een paar ideeën en kies je het beste ontwerp voor het visitekaartje uit. Dat definitieve ontwerp maak je in de code en wordt je uiteindelijke visitekaartje.
 
 ### Hier zijn de eerste schetsen die ik voor mijn visitekaartje heb gemaakt 
