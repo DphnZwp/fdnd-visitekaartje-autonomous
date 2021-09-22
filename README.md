@@ -3,14 +3,14 @@
 # Titel
 
 ## Beschrijving
-<!-- Voeg een link toe naar Github Pages 🌐-->
+daphne.student.fdnd.nl
 <!-- Voeg een mooie poster visual toe 📸 -->
 Het doel van het project is om jezelf voor te stellen binnen de tribe door middel van een visitekaartje. Eerst moet je bepalen wat ga je over jezelf vertellen in het visitekaartje. Daarna schets je een paar ideeën en kies je het beste ontwerp voor het visitekaartje uit. Dat definitieve ontwerp maak je in de code en wordt je uiteindelijke visitekaartje.
 
 ### Hier zijn de eerste schetsen die ik voor mijn visitekaartje heb gemaakt 
 foto moet nog gemaakt worden
 
-### Dit is de schets die ik gekozen had. 
+### Dit is de schets die ik gekozen had
 foto moet nog gemaakt worden
 
 ### Hier is het ontwerp in Adobe Illustrator uitgewerkt
