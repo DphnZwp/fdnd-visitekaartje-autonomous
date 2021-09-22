@@ -15,7 +15,8 @@ foto moet nog gemaakt worden
 
 ### Hier is het ontwerp in Adobe Illustrator uitgewerkt
 Voorkant:
-![IMG_1057](https://user-images.githubusercontent.com/69635977/134397634-a93dc021-c473-4449-af52-6c4e4b4b4d13.JPG)
+![scrnli_13-9-2021 11-23-06](https://user-images.githubusercontent.com/69635977/134398949-bb4c7ffc-7c44-442e-8822-5b721fa5510f.png)
+
 Achterkant:
 ![achterkant](https://user-images.githubusercontent.com/69635977/134398026-f4fa08ca-f0fb-473f-9fbc-18aa8be3d4d6.jpg)
 
