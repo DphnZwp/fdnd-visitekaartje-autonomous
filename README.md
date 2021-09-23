@@ -11,10 +11,10 @@ https://daphne.student.fdnd.nl/
 Het doel van het project is om jezelf voor te stellen binnen de tribe door middel van een visitekaartje. Eerst moet je bepalen wat ga je over jezelf vertellen in het visitekaartje. Daarna schets je een paar ideeën en kies je het beste ontwerp voor het visitekaartje uit. Dat definitieve ontwerp maak je in de code en wordt je uiteindelijke visitekaartje.
 
 ### Hier zijn de eerste schetsen die ik voor mijn visitekaartje heb gemaakt 
-foto moet nog gemaakt worden
+![1](https://user-images.githubusercontent.com/69635977/134559711-bd9d0e81-a597-4518-a794-d70922ccc7f0.jpg)
 
 ### Dit is de schets die ik gekozen had
-foto moet nog gemaakt worden
+![2](https://user-images.githubusercontent.com/69635977/134559752-45dd34ca-8268-477d-857c-4f1816fbfda2.jpg)
 
 ### Hier is het ontwerp in Adobe Illustrator uitgewerkt
 #### Voorkant:
@@ -24,7 +24,7 @@ foto moet nog gemaakt worden
 ![achterkant](https://user-images.githubusercontent.com/69635977/134398026-f4fa08ca-f0fb-473f-9fbc-18aa8be3d4d6.jpg)
 
 ### Toen de les over hierarchie design ging had ik een betere schets gemaakt voor een betere hierarchie in mijn ontwerp
-foto moet nog gemaakt worden
+![3](https://user-images.githubusercontent.com/69635977/134559803-f9a01ecd-1978-42b9-883c-f01168223c01.jpg)
 
 ### Hier is het verbeterde ontwerp in Adobe Illustrator uitgewerkt
 ![voorkant](https://user-images.githubusercontent.com/69635977/134399427-c6032f01-03f8-4a8d-8b48-661b432e30d9.jpg)
