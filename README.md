@@ -4,7 +4,7 @@
 
 ## Beschrijving
 https://daphne.student.fdnd.nl/
-![voorkant visitekaartje](https://user-images.githubusercontent.com/69635977/188321123-b37e9864-03ab-4877-a1c9-1352c4dcea57.png)
+![voorkant visitekaartje](https://user-images.githubusercontent.com/69635977/188321448-9f282f1a-07c1-44dd-8710-1ee35a53c747.png)
 ![achterkant visitekaartje](https://user-images.githubusercontent.com/69635977/188321136-e8f37067-b2fc-41c9-9254-f7c3cbdf838c.png)
 
 Het doel van het project is om jezelf voor te stellen binnen de tribe door middel van een visitekaartje. Eerst moet je bepalen wat ga je over jezelf vertellen in het visitekaartje. Daarna schets je een paar ideeën en kies je het beste ontwerp voor het visitekaartje uit. Dat definitieve ontwerp maak je in de code en wordt je uiteindelijke visitekaartje.
